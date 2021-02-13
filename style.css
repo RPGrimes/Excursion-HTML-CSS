@@ -31,3 +31,11 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+video{ 
+    align-items: center;
+}
+
+img {
+    align-items: center;
+}
